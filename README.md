@@ -1,7 +1,5 @@
-# Personal-Project-1
-Personal project to learn front end
+# Personal-Site
+Personal site using Angular and bootstrap
 
-This is my first personal project to learn front end with Angular
-
-These exercises are deployed pm firebase
-https://frankc-test.web.app/
+These exercises are deployed using firebase and linked to my URL:
+https://frankc.ca
